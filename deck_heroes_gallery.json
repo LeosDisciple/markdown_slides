@@ -1,0 +1,32 @@
+{
+  "title": "Presentation Framework Demo",
+  "theme": "aurora",
+  "image": "assets/dota_gallery.jpg",
+  "transition_duration_ms": 800,
+  "slides": [
+    {
+      "image_zoom": 2,
+      "image_center": { "x": 1215, "y": 900 }
+    },
+    {
+      "image_zoom": 2.5,
+      "image_center": { "x": 2018, "y": 1840 }
+    },
+    {
+      "image_zoom": 1.8,
+      "image_center": { "x": 2039, "y": 674 }
+    },
+    {
+      "image_zoom": 3,
+      "image_center": { "x": 2867, "y": 1220 }
+    },
+    {
+      "image_zoom": 4,
+      "image_center": { "x": 1111, "y": 750 }
+    },
+    {
+      "image_zoom": 5.0,
+      "image_center": { "x": 1245, "y": 150 }
+    }
+  ]
+}

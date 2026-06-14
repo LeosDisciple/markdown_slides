@@ -1,0 +1,32 @@
+{
+  "title": "Presentation Framework Demo",
+  "theme": "paper",
+  "image": "assets/village.png",
+  "transition_duration_ms": 500,
+  "slides": [
+    {
+      "image_zoom": 2,
+      "image_center": { "x": 552, "y": 563 }
+    },
+    {
+      "image_zoom": 3,
+      "image_center": { "x": 1466, "y": 470 }
+    },
+    {
+      "image_zoom": 1.5,
+      "image_center": { "x": 763, "y": 411 }
+    },
+    {
+      "image_zoom": 3,
+      "image_center": { "x": 540, "y": 175 }
+    },
+    {
+      "image_zoom": 4,
+      "image_center": { "x": 1111, "y": 750 }
+    },
+    {
+      "image_zoom": 5.0,
+      "image_center": { "x": 1245, "y": 150 }
+    }
+  ]
+}
