@@ -13,7 +13,7 @@ A zero-server slide deck engine powered by **Markdown** and a single build comma
 
 Building slide decks today means fighting proprietary tools:
 
-> "I just want to write text and have it look good."
+> "I just want to write text and have it look good!"
 
 Common pain points:
 
